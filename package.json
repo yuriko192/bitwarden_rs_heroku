@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "npx serve ."
+  },
+  "author": "Yuriko",
+  "license": "ISC",
+  "dependencies": {}
+}
